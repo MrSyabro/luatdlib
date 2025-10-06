@@ -1,12 +1,12 @@
 package = "luatd"
 version = "1.0-1"
 source = {
-   url = "git+https://git@github.com/MrSyabro/ollama_lua.git",
+   url = "git+https://github.com/MrSyabro/luatdlib.git",
    branch = "master"
 }
 description = {
-   summary = "Simple TDLib JSON bind",
-   homepage = "https://github.com/MrSyabro/ollama_lua",
+   summary = "Simplest TDLib JSON bind",
+   homepage = "https://github.com/MrSyabro/luatdlib",
    license = "MIT/X11"
 }
 dependencies = {
